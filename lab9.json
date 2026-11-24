@@ -1,13 +1,13 @@
 [
     {
         "name": "Chronograph Classic Steel",
-        "category": "grocerie",
+        "category": "shoe",
         "amount": 3,
         "image": "1.jpg"
     },
     {
         "name": "Minimalist Leather Watch",
-        "category": "grocerie",
+        "category": "shoe",
         "amount": 2,
         "image": "2.jpg"
     },
@@ -19,7 +19,7 @@
     },
     {
         "name": "Wall clock",
-        "category": "grocerie",
+        "category": "shoe",
         "amount": 1,
         "image": "4.jpg"
     }
