@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chronograph Classic Steel",
+        "category": "grocerie",
+        "amount": 3,
+        "image": "1.jpg"
+    },
+    {
+        "name": "Minimalist Leather Watch",
+        "category": "grocerie",
+        "amount": 2,
+        "image": "2.jpg"
+    },
+    {
+        "name": "Smart Fitness Band Pro",
+        "category": "grocerie",
+        "amount": 4,
+        "image": "3.jpg"
+    },
+    {
+        "name": "Wall clock",
+        "category": "grocerie",
+        "amount": 1,
+        "image": "4.jpg"
+    }
+]
